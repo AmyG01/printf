@@ -1,3 +1,6 @@
+#include "main.h"
+
+unsigned int _memcpy(buffer_t *output, const char *src, unsigned int n);
 void free_buffer(buffer_t *output);
 buffer_t *init_buffer(void);
 
