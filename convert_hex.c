@@ -1,4 +1,3 @@
-80% of storage used … You can clean up space or get more storage for Drive, Gmail, and Google Photos.
 #include "main.h"
 
 unsigned int convert_x(va_list args, buffer_t *output,
